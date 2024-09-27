@@ -67,9 +67,9 @@ The email will be sent automatically using either SMTP or Outlook, depending on 
 ![alt text](<img/Screenshot 2024-09-27 192410.png>)
 ![alt text](<img/Screenshot 2024-09-27 205823.png>)
 ![alt text](<img/Screenshot 2024-09-27 205849.png>)
-![alt text](<img/Screenshot 2024-09-27 205915.png>)
+![alt text](<img/Screenshot 2024-09-27 211847.png>)
 ![alt text](<img/Screenshot 2024-09-27 205933.png>)
-![alt text](<img/Screenshot 2024-09-27 205733.png>)
+![alt text](<img/Screenshot 2024-09-27 211749.png>)
 
 ## Result:
 
